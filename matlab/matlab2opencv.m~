@@ -24,7 +24,7 @@ file = fopen( fileName, 'w');
             fprintf( file, '%.10f', variable(i));
             if (i == rows*cols), break, end
             fprintf( file, ', ');
-            if mod(i,cols) == 0
+            if mod(i,채ㅣ) == 0
                 fprintf( file, '\n            ');
             end
         end
