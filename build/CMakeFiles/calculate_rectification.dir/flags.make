@@ -6,5 +6,5 @@ CXX_FLAGS =
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/irap/git/stereo-calibration/build -I/home/irap/git/stereo-calibration -I/home/irap/git/stereo-calibration/$(OpenCV_INCLUDE_DIRS) -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv 
+CXX_INCLUDES = -I/home/irap/git/StereoCalibration_matlab2opencv/build -I/home/irap/git/StereoCalibration_matlab2opencv -I/home/irap/git/StereoCalibration_matlab2opencv/$(OpenCV_INCLUDE_DIRS) -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv 
 

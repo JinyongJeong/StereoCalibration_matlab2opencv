@@ -1,4 +1,4 @@
-# Install script for directory: /home/irap/git/stereo-calibration
+# Install script for directory: /home/irap/git/StereoCalibration_matlab2opencv
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/irap/git/stereo-calibration/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/irap/git/StereoCalibration_matlab2opencv/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

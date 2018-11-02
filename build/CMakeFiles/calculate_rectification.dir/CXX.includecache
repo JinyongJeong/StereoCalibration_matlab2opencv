@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/irap/git/stereo-calibration/calculate_rectification.cpp
+/home/irap/git/StereoCalibration_matlab2opencv/calculate_rectification.cpp
 opencv2/core/core.hpp
 -
 opencv2/calib3d/calib3d.hpp

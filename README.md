@@ -1,4 +1,4 @@
-## Stereo calibration parameter converter from Matlab to Opencv
+## Stereo calibration parameter converter from Matlab to Opencv and ROS
 
 This repository converts the parameters used for OpenCV and ROS to the results of performing stereo calibration in matlab.
 

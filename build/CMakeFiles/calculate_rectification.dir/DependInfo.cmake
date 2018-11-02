@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/irap/git/stereo-calibration/calculate_rectification.cpp" "/home/irap/git/stereo-calibration/build/CMakeFiles/calculate_rectification.dir/calculate_rectification.cpp.o"
+  "/home/irap/git/StereoCalibration_matlab2opencv/calculate_rectification.cpp" "/home/irap/git/StereoCalibration_matlab2opencv/build/CMakeFiles/calculate_rectification.dir/calculate_rectification.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
