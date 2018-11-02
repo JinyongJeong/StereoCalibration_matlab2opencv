@@ -1,3 +1,0 @@
-/home/irap/git/StereoCalibration_matlab2opencv/build/CMakeFiles/edit_cache.dir
-/home/irap/git/StereoCalibration_matlab2opencv/build/CMakeFiles/rebuild_cache.dir
-/home/irap/git/StereoCalibration_matlab2opencv/build/CMakeFiles/calculate_rectification.dir
