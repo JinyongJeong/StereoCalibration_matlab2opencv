@@ -24,7 +24,7 @@ matlab2opencv(right_parameter,'./../calib_result/cam_right.yml');
 
 %Generate extrinsic parameter yml
 extrinsic_R = stereoParams.RotationOfCamera2;
-extrinsic_T = stereoParams.TranslationOfCamera2* 0.001;
+extrinsic_T = stereoParams.TranslationOfCamera2'* 0.001;
 keySet = {'R','T'};
 valueSet = {extrinsic_R, extrinsic_T};
 extrinsic_parameter = containers.Map(keySet,valueSet);
